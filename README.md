@@ -1,6 +1,7 @@
 ## Symptom Checker
 
 An web app where users enter symptoms in natural language and get AI-generated possible causes, urgency level, safe next steps, and lifestyle advice. It can also summarize recent medical research using RAG.
+
 🔗 Demo Video : https://youtu.be/cDqR8oD2zJs
 
 ### Features
