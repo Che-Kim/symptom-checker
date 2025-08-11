@@ -4,11 +4,8 @@ An web app where users enter symptoms in natural language and get AI-generated p
 
 ### Features
 🩺 AI symptom guidance — No diagnosis, but offers safety-first information.
-
 📚 RAG research summaries — Pulls studies from PubMed and explains them in plain language.
-
 ⚡ Modern tech stack — Fast, responsive UI built with Next.js, TypeScript, and Tailwind CSS.
-
 🔍 Privacy-friendly — No server-side storage of symptoms; session history is optional and client-side only.
 
 ### Tech Stack
@@ -21,9 +18,7 @@ An web app where users enter symptoms in natural language and get AI-generated p
 
 ### Ethics and Disclaimer
 - This is not a medical device and should not be used for diagnosis.
-
 - For emergencies, users are instructed to seek immediate medical care.
-
 - No personal health data is stored on the server.
 
 
